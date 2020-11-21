@@ -1,5 +1,5 @@
 #!/bin/bash
 echo 'Count two numbers'
 var=$(( $FN + $SN ))
-echo ""
+echo "..."
 echo -e "Result: $var"
